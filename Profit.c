@@ -1,15 +1,14 @@
 #include<stdio.h>
 int main()
 {
-    int sp,cp;
-    scanf("%d%d",&sp,&cp);
-    if(cp>sp)
+    int cp,sp;
+    scanf("%d%d",&cp,&sp);
+    if(cp<sp)
     {
         printf("Profit");
     }
-    else
+    else 
     {
         printf("Loss");
     }
-    return 0;
 }
