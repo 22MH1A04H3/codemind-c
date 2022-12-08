@@ -7,10 +7,8 @@ int main()
     {
         printf("HOT");
     }
-    else 
+    else
     {
         printf("COLD");
     }
-    
-    return 0;
 }
