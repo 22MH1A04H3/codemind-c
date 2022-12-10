@@ -17,7 +17,6 @@ int main()
     }
     else if(n%2==0&&n>20)
     {
-        printf("not weird");
+        printf("nor weird");
     }
-    return 0;
 }
