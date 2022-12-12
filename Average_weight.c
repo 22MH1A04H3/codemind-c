@@ -6,4 +6,5 @@ int main()
     x=3*a-b-c;
     printf("%d",x);
     return 0;
+    
 }
